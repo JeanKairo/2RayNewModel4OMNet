@@ -1,0 +1,3 @@
+package teste;
+
+@license(LGPL);
